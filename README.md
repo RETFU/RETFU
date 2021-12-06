@@ -21,7 +21,7 @@ Remote worker 10 years+ 🏡💻
 - LAMP stack veteran
 - TypeScript enthusiast
 - Node.js enthusiast
-- Python compatible
+- Python enthusiast
 - Industry standards: test, code review, continuous integration etc...
 
 👨‍🎓 Area of improvements  

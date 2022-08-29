@@ -1,8 +1,8 @@
 Hi,
 
-**I'm a Developer working as CTO for [IWD](https://iwd.io)**
+**I'm a Senior Developer back in coding fulltime after more than a decase as as CTO**
 
-39 years old, 👨‍👩‍👦 + 😺  
+40 years old, 👨‍👩‍👦 + 😺  
 Paris area, France 🇫🇷  
 Remote worker 10 years+ 🏡💻   
 

@@ -1,6 +1,6 @@
 Hi,
 
-**I'm a Senior Developer back in coding fulltime after more than a decase as CTO**
+**I'm a Senior Developer back in coding fulltime after more than a decade as CTO**
 
 40 years old, 👨‍👩‍👦 + 😺  
 Paris area, France 🇫🇷  

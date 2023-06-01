@@ -21,11 +21,14 @@ Remote worker 10 years+ 🏡💻
 - Manage by creating clear, focused and measurable goals for a team, improving processes
 
 👨‍💻 Tech
-- React & React Native ecosystem
-- GCP / Firebase platform
 - TypeScript
 - Node.js
+- NestJS
+- REST/GraphQL
+- React & React Native ecosystem
+- GCP / Firebase platform
 - LAMP stack veteran
+- ...
 
 👴 Old
 - ActionScript 2 & 3
